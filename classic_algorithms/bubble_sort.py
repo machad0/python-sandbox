@@ -1,3 +1,7 @@
+####################################################################################
+# Sorting - Implement two types of sorting algorithms: Merge sort and bubble sort. #
+####################################################################################
+
 def bubbleSort(alist):
     print 'sorting:', listSort
     for i in range(len(alist) - 1):

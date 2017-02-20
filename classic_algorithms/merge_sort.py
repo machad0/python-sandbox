@@ -1,4 +1,8 @@
 # -x- coding: utf-8 -x-
+####################################################################################
+# Sorting - Implement two types of sorting algorithms: Merge sort and bubble sort. #
+####################################################################################
+
 import random
 
 randomList = random.sample(xrange(1, 101), 10)
