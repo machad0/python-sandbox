@@ -6,6 +6,7 @@ palindrome = ''
 while palindrome.upper() != 'Q':
     palindrome = raw_input("check if the string is a palindrome or type 'q' to quit:  ")
     length = len(palindrome)
+    i = 0
     for i in range(length/2):
         if (palindrome[length - i - 1] != palindrome[i]):
             break
