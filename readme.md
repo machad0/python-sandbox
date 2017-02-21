@@ -13,6 +13,7 @@ Done
     - Collatz Conjecture
     - Sorting: Merge Sort
     - Sorting: Bubble Sort
+    - Sieve of Eratosthenes
 
 	Text
 	=============
